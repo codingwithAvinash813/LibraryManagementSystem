@@ -5,8 +5,7 @@ I am passionate about coding, gaming, and sharing content
   🌟 About Me
 - 🛠️ **Current Learning**: Data Structures and Algorithms (DSA), Advanced C++
 - 💻 **CRN**: 2430017
-- 📸 **Instagram**: [ihlak_official](https://www.instagram.com/ihlak_official
-
+- 📸 **Instagram**: [ihlak_official](https://www.instagram.com/avinashkk_/?hl=en)
 - 
 Quirky Library Management System 📚😂
 Welcome to the Quirky Library Management System, a fun and interactive console-based application designed to manage a library of books with a touch of humor! Whether you’re a bookworm, a secret agent, or just someone who loves messing around with code, this project is for you.
